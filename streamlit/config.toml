@@ -1,0 +1,7 @@
+# .streamlit/config.toml
+[theme]
+primaryColor = "#FF6B6B"           # ボタンや選択項目の色（赤系）
+backgroundColor = "#FFF9E6"        # 背景色（薄い黄色）
+secondaryBackgroundColor = "#E3F2FD"  # サイドバー背景色（薄い青）
+textColor = "#1A1A1A"              # テキスト色（濃い黒）
+font = "sans serif"                # フォント
